@@ -1,2 +1,2 @@
-# fake-api
+# tattoo-api
 Desenvolver um servidor json
