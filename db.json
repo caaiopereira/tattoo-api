@@ -1,0 +1,23 @@
+{
+    "pequena": [
+        { "id" :1, "tipo" : "Tribal", "valor": 200, "tamanho": "7cm"},
+        { "id" :2, "tipo" : "Old School", "valor": 250, "tamanho": "7cm"},
+        { "id" :3, "tipo" : "Oriental", "valor": 300, "tamanho": "9cm"},
+        { "id" :4, "tipo" : "Realismo", "valor": 300, "tamanho": "10cm"}
+    ],
+
+    "media" : [
+        { "id" :1, "tipo" : "Tribal", "valor": 600, "tamanho": "20cm"},
+        { "id" :2, "tipo" : "Old School", "valor": 650, "tamanho": "25cm"},
+        { "id" :3, "tipo" : "Oriental", "valor": 700, "tamanho": "27cm"},
+        { "id" :4, "tipo" : "Realismo", "valor": 800, "tamanho": "30cm"}
+    ],
+
+    "grande" : [
+        { "id" :1, "tipo" : "Tribal", "valor": 1100, "tamanho": "40cm"},
+        { "id" :2, "tipo" : "Old School", "valor": 1200, "tamanho": "50cm"},
+        { "id" :3, "tipo" : "Oriental", "valor": 1300, "tamanho": "55cm"},
+        { "id" :4, "tipo" : "Realismo", "valor": 1500, "tamanho": "60cm"}
+    ]
+    
+}
