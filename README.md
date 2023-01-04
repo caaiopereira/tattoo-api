@@ -5,5 +5,5 @@ Desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados
     Instalação de nodejs e json-server
     Métodos de teste GET, POST, PUT e DELETE
     Informações sobre o conteudo da api
-    Utilizado o Editor de código Visual Studio Code para a montagem
+    Utilizado o Editor de código Visual Studio Code para a montagem.
     
